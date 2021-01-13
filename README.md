@@ -1,6 +1,4 @@
-# Stefan Brandmair
-
-1819-4bhif-nvs-assignment03-vehicle
+# 1819-4bhif-nvs-assignment03-vehicle
 
 # Vehicle
 
